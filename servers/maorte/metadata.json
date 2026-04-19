@@ -1,0 +1,30 @@
+{
+  "id": "maorte",
+  "name": "MAORTE",
+  "description": "Polski serwer Minecraft",
+  "addresses": [
+    "maorte.pl"
+  ],
+  "primaryAddress": "maorte.pl",
+  "minecraftVersions": [
+    "1.20.*"
+  ],
+  "primaryMinecraftVersion": "1.20",
+  "primaryColor": "#ff0000",
+  "secondaryColor": "#000000",
+  "primaryLanguage": "pl",
+  "languages": [
+    "pl"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "socials": {
+    "discord": "https://discord.com/invite/wf33ARs8va"
+  },
+  "crossplay": false
+}
